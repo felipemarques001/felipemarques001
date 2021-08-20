@@ -3,7 +3,7 @@
 - 🔭 Atualmente, estou procurando o meu primeiro emprego em desenvolvimento front-end
 - 👨‍🎓 Estudando: Sistemas de Informação
 - 🌱 Estudando: HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele/você
 
 <div>
   <a href="https://github.com/felipemarques001">
