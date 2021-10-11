@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, estou procurando o meu primeiro emprego em desenvolvimento front-end
 - 👨‍🎓 Estudando: Sistemas de Informação
-- 🌱 Estudando: HTML, CSS e JavaScript
+- 🌱 Estudando: HTML, CSS, JavaScript e Node.JS
 - 😄 Pronouns: ele/dele/você
 
 <div>
