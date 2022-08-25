@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o Felipe Marques
 
 - 🔭 Atualmente, estou procurando o meu primeiro emprego em desenvolvimento front-end
-- 👨‍🎓 Cursando: Sistemas de Informação
+- 👨‍🎓 Cursando: Sistemas de Informação na Universidade Federal Rural de Pernambuco - UFRPE
 - 🌱 Estudando: HTML, CSS, JavaScript e Node.JS
 - 😄 Pronouns: ele/dele/você
 
