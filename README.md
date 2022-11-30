@@ -1,9 +1,9 @@
 ### Olá!!! Eu sou o Felipe Marques
 
-- 🔭 Atualmente, estou procurando o meu primeiro emprego em desenvolvimento front-end
-- 👨‍🎓 Cursando: Sistemas de Informação na Universidade Federal Rural de Pernambuco - UFRPE
-- 🌱 Estudando: Java, Spring Boot, Python, SQL e PostgreSQL
-- 😄 Pronouns: ele/dele/você
+- 🔭 Atualmente, estou procurando o meu primeiro emprego em desenvolvimento Back-end.
+- 👨‍🎓 Cursando: Sistemas de Informação na Universidade Federal Rural de Pernambuco - UFRPE.
+- 🌱 Estudando: Java, Spring Boot, Python, SQL, PostgreSQL, HTML, CSS e JavaScript.
+- 😄 Pronouns: ele/dele/você.
 
 <div>
   <a href="https://github.com/felipemarques001">
@@ -12,10 +12,14 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Felipe_Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java Image" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring Image" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
+  <img align="center" alt="PostgreSQL image" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git image" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="NodeJS Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="JavaScript Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
 ##
@@ -24,6 +28,7 @@
   <a href="https://instagram.com/felipe_marques0102" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipemarquesgg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-marques-011/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://felipemarques001.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/felipemarques001/felipemarques001/blob/output/github-contribution-grid-snake.svg)
 
