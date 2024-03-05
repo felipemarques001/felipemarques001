@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, estou procurando o meu primeiro emprego em desenvolvimento Back-end.
 - 👨‍🎓 Cursando: Sistemas de Informação na Universidade Federal Rural de Pernambuco - UFRPE.
-- 🌱 Estudando: Java, Spring Boot, Python, SQL, PostgreSQL, HTML, CSS e JavaScript.
+- 🌱 Estudando: Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript, Dart, Flutter e Python.
 - 😄 Pronouns: ele/dele/você.
 
 <div>
