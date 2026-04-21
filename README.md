@@ -32,4 +32,4 @@
   
 <h2>📞 My Contacts</h2>
 <p>📧 E-mail: felipemarquesgg@gmail.com</p>
-<p>🔗 <a href="https://www.linkedin.com/in/felipe-marquess/" target="_blank">Linkedln</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/felipe-marquess/" target="_blank">Linkedin</a></p>
