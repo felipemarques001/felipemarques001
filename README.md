@@ -1,13 +1,14 @@
 <h1> Hi, I'm Felipe Marques! </h1>
 
 <div>
-  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhuMzJvcG52YjU1cjZhdTR4b3Nubnc2bXFxZHNobXZvazcwd2lqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200">
-  <p>💻 Software Enginner at Coflint</p>
-  <p>💻 Software Enginner at Animati</p>
+  <p>💻 Software Engineer at Coflint</p>
+  <p>💻 Software Engineer at Animati</p>
   <p>👨‍🎓 Studying Information Systems at Universidade Federal Rural de Pernambuco (UFRPE)</p>
 </div>
 
 <h2>🛠️ My Stack</h2>
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhuMzJvcG52YjU1cjZhdTR4b3Nubnc2bXFxZHNobXZvazcwd2lqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="240">
 
 <h3>☕ Backend</h3>
 <ul>
